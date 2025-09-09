@@ -9,3 +9,4 @@ Key Features:
 =>Category & Sub-Category Performance:- Details sales by product categories (Office Supplies, Technology, Furniture) and sub-categories (Phones, Chairs, Binders). 
 =>Shipping Mode Analysis:- Shows sales distribution by ship mode (Standard Class, Second Class, First Class, Same Day). 
 =>Geographic Sales & Profit:- Provides a map-based visualization of sales and profit by state. 
+Sales forecasting is also been performed using Power BI.
